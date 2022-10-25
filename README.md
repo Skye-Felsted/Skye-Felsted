@@ -1,0 +1,4 @@
+- Hi, I’m @Skye-Felsted
+- I’m interested in back-end development
+- My goal is to create a business by freelancing
+- I’m currently learning c++
